@@ -6,10 +6,12 @@ This game is about moving platforms and collecting trash or something and it has
 So, I want this to be free to use for anyone to give a try or try to learn something from it.
 
 All I ask in return is 3 things:
-- One, show me the cool things you make with it.
-- Two, check out SquidGod and the video tutorial I modified to make this project (https://www.youtube.com/watch?v=7GbUxjE9rRM).
-- Three, consider donating to me on ko-fi:
+One, show me the cool things you make with it.
+Two, check out SquidGod and the video tutorial I modified to make this project (https://www.youtube.com/watch?v=7GbUxjE9rRM).
+Three, consider donating to me on ko-fi:
 https://ko-fi.com/raccoonformality
+
+-------------------------------------------------------------------------------------------------------------------
 
 - **includes:**
 
