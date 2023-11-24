@@ -1,0 +1,9 @@
+name=Cranky Raccoon
+author=Raccoon Formality
+description=A basic game template.
+bundleID=com.raccoonformality.ld54
+version=0.06
+buildNumber=6
+imagePath=SystemAssets
+pdxversion=20000
+buildtime=749670273
