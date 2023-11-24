@@ -5,6 +5,14 @@ This game is about moving platforms and collecting trash or something and it has
 
 So, I want this to be free to use for anyone to give a try or try to learn something from it.
 
+- **includes:**
+
+Folder named Source with the source code for this project.
+Also, the folder named ld54.pdx is a compiled build of a game you can try in the simulator or on real hardware.
+I originally wanted to make a demo of this game for Ludum Dare 54, which is why it is named ld54.pdx, but plans fell through.
+
+thank you, have a nice day and have fun.
+
 ![playdate-20231002-142558](https://github.com/Raccoon-Formality/Cranky-Raccoon-Test/assets/120414230/7a2a8a0c-baac-4ba2-a2a6-f6ba3aa170b1)
 
 - **code used:**
