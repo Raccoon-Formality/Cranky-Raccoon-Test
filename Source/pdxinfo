@@ -1,7 +1,7 @@
-name=Cranky Raccoon
-author=Raccoon Formality
+name=Game Name (Please Change)
+author=Company Name (Please Change)
 description=A basic game template.
-bundleID=com.raccoonformality.ld54
-version=0.06
-buildNumber=6
+bundleID=com.companyNamePleaseChange.gameNamePleaseChange
+version=0.10
+buildNumber=10
 imagePath=SystemAssets
