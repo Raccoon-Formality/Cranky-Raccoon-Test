@@ -8,8 +8,10 @@ So, I want this to be free to use for anyone to give a try or try to learn somet
 All I ask in return is 3 things:
 
 1. show me the cool things you make with it.
-2. check out SquidGod and the video tutorial I modified to make this project: https://www.youtube.com/watch?v=7GbUxjE9rRM
-3. Three, consider donating to me on ko-fi: https://ko-fi.com/raccoonformality
+2. check out SquidGod and the video tutorial I modified to make this project:
+  - https://www.youtube.com/watch?v=7GbUxjE9rRM
+4. Three, consider donating to me on ko-fi:
+  - https://ko-fi.com/raccoonformality
 
 -------------------------------------------------------------------------------------------------------------------
 
